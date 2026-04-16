@@ -1,13 +1,16 @@
-# E-Commerce Revenue Analysis
+E-Commerce Revenue Analysis
 
-## Tools Used
+Tools Used :
 - PostgreSQL (pgAdmin)
-- Excel
+- SQL
 
-## Description
-This project analyzes e-commerce transaction data to identify revenue trends and customer behavior.
+Project Description
+This project analyzes e-commerce transaction data to understand revenue patterns and product performance.
 
-## Key Insights
-- Top performing products
-- Revenue trends over time
-- Customer purchasing patterns
+Key Analysis
+- Total revenue calculation
+- Product-wise revenue analysis
+- Identification of top-performing products
+
+Files
+- ecommerce_revenue_analysis.sql → contains table creation, data insertion, and analysis queries
